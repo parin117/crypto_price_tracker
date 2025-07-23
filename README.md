@@ -8,6 +8,8 @@ You can view the live version of this project here:
 
 [Crypto Price Tracker - Live Preview](https://crypto-price-tracker-chi.vercel.app)
 
+<img width="1440" height="816" alt="Image" src="https://github.com/user-attachments/assets/989dc3aa-9f60-4930-968f-24d78a54029b" />
+
 
 ## Features
 
